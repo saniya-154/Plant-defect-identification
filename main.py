@@ -30,7 +30,7 @@ os.makedirs(trained_model_dir, exist_ok=True)
 # Check if model exists, if not download
 if not os.path.exists(model_path):
     import gdown
-    url = "https://drive.google.com/file/d/1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI/view?usp=drive_link"  # <-- Replace YOUR_FILE_ID
+    url = "https://drive.google.com/uc?id=1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI"  # <-- Replace YOUR_FILE_ID
     gdown.download(url, model_path, quiet=False)
 
 # Load the pre-trained model and class indices
