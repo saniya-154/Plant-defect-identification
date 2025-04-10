@@ -29,7 +29,7 @@ os.makedirs(trained_model_dir, exist_ok=True)
 
 # Check if model exists, if not download
 if not os.path.exists(model_path):
-    gdown.download(f"https://drive.google.com/uc?id={1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI}", "model.h5", quiet=False, fuzzy=True)
+    gdown.download(f"https://drive.google.com/uc?id=1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI", "model.h5", quiet=False, fuzzy=True)
 
 
 # Load the pre-trained model and class indices
