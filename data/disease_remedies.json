@@ -1,0 +1,192 @@
+{
+    "Apple___Apple_scab": {
+      "description": "Apple scab is a fungal disease causing dark, scabby lesions on apple leaves and fruit.",
+      "remedy": "Apply fungicides such as captan or myclobutanil. Remove and destroy fallen leaves.",
+      "organic_remedy": "Use sulfur-based sprays and encourage good air circulation by proper pruning."
+    },
+    "Apple___Black_rot": {
+      "description": "Black rot affects apples causing fruit rot, leaf spots, and limb cankers.",
+      "remedy": "Prune infected limbs, apply fungicides like thiophanate-methyl, and remove infected fruit.",
+      "organic_remedy": "Spray copper-based fungicides and ensure trees are not stressed."
+    },
+    "Apple___Cedar_apple_rust": {
+      "description": "Cedar apple rust is a fungal disease causing orange spots on apple leaves and fruit.",
+      "remedy": "Remove nearby cedar hosts, apply fungicides such as myclobutanil.",
+      "organic_remedy": "Use neem oil or sulfur sprays during early leaf development."
+    },
+    "Apple___healthy": {
+      "description": "The apple plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Maintain good care practices to prevent future diseases."
+    },
+    "Blueberry___healthy": {
+      "description": "The blueberry plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Regular watering and mulching will maintain plant health."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+      "description": "Powdery mildew causes a white powdery coating on leaves, stems, and fruit.",
+      "remedy": "Apply fungicides containing sulfur or potassium bicarbonate.",
+      "organic_remedy": "Use baking soda spray or neem oil applications."
+    },
+    "Cherry_(including_sour)___healthy": {
+      "description": "The cherry plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Maintain proper sunlight and airflow to prevent diseases."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+      "description": "Gray leaf spot is a fungal disease causing small, rectangular gray lesions on maize leaves.",
+      "remedy": "Use fungicides like azoxystrobin and plant resistant hybrids.",
+      "organic_remedy": "Rotate crops and ensure good field hygiene."
+    },
+    "Corn_(maize)___Common_rust_": {
+      "description": "Common rust causes reddish-brown pustules on maize leaves.",
+      "remedy": "Apply fungicides if infection is severe; use resistant varieties.",
+      "organic_remedy": "Encourage air circulation and avoid overhead irrigation."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "description": "Northern leaf blight causes large cigar-shaped lesions on maize leaves.",
+      "remedy": "Use fungicides like strobilurins and resistant hybrids.",
+      "organic_remedy": "Rotate crops and remove crop debris after harvest."
+    },
+    "Corn_(maize)___healthy": {
+      "description": "The corn plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Proper soil management keeps corn plants strong."
+    },
+    "Grape___Black_rot": {
+      "description": "Black rot affects grapes with dark, sunken lesions and fruit rot.",
+      "remedy": "Prune and destroy infected parts, use fungicides like mancozeb.",
+      "organic_remedy": "Apply sulfur sprays and maintain vine airflow."
+    },
+    "Grape___Esca_(Black_Measles)": {
+      "description": "Esca, or black measles, causes discolored leaves and shriveled grapes.",
+      "remedy": "Remove infected vines and avoid injuries during pruning.",
+      "organic_remedy": "Apply organic biocontrol agents and compost teas."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "description": "Leaf blight causes brown spots with yellow margins on grape leaves.",
+      "remedy": "Apply copper-based fungicides and remove fallen leaves.",
+      "organic_remedy": "Use neem oil and improve vineyard ventilation."
+    },
+    "Grape___healthy": {
+      "description": "The grapevine is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Maintain proper pruning and avoid water stress."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+      "description": "Citrus greening is a bacterial disease causing yellow shoots and misshapen fruit.",
+      "remedy": "There is no cure; remove and destroy infected trees.",
+      "organic_remedy": "Control psyllid insects organically and maintain tree health."
+    },
+    "Peach___Bacterial_spot": {
+      "description": "Bacterial spot causes dark, sunken spots on peach fruits and leaves.",
+      "remedy": "Apply copper sprays during dormant and growing seasons.",
+      "organic_remedy": "Use compost teas and maintain tree vigor."
+    },
+    "Peach___healthy": {
+      "description": "The peach tree is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Regular pruning and sanitation keeps peach trees healthy."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+      "description": "Bacterial spot causes small, water-soaked lesions on pepper leaves and fruit.",
+      "remedy": "Use copper-based bactericides and resistant varieties.",
+      "organic_remedy": "Spray neem oil and ensure good drainage."
+    },
+    "Pepper,_bell___healthy": {
+      "description": "The bell pepper plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Regular inspection prevents future infections."
+    },
+    "Potato___Early_blight": {
+      "description": "Early blight causes dark brown spots with concentric rings on potato leaves.",
+      "remedy": "Use fungicides containing chlorothalonil and rotate crops annually.",
+      "organic_remedy": "Apply neem oil and ensure proper plant spacing."
+    },
+    "Potato___Late_blight": {
+      "description": "Late blight rapidly kills leaves and causes dark lesions on stems and tubers.",
+      "remedy": "Destroy infected plants and apply protective fungicides.",
+      "organic_remedy": "Use copper sprays and plant resistant varieties."
+    },
+    "Potato___healthy": {
+      "description": "The potato plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Mulch well and avoid water splashing onto leaves."
+    },
+    "Raspberry___healthy": {
+      "description": "The raspberry plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Maintain soil moisture and airflow."
+    },
+    "Soybean___healthy": {
+      "description": "The soybean plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Rotate crops to maintain healthy soil."
+    },
+    "Squash___Powdery_mildew": {
+      "description": "Powdery mildew causes a white powdery fungal growth on squash leaves.",
+      "remedy": "Apply fungicides like sulfur or potassium bicarbonate.",
+      "organic_remedy": "Use milk sprays (1:9 milk:water) or neem oil."
+    },
+    "Strawberry___Leaf_scorch": {
+      "description": "Leaf scorch causes small purple spots that expand into larger dead areas on strawberry leaves.",
+      "remedy": "Apply appropriate fungicides and remove infected leaves.",
+      "organic_remedy": "Use compost teas and ensure good watering practices."
+    },
+    "Strawberry___healthy": {
+      "description": "The strawberry plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Mulch and maintain plant health naturally."
+    },
+    "Tomato___Bacterial_spot": {
+      "description": "Bacterial spot causes small, dark, greasy lesions on tomato leaves and fruit.",
+      "remedy": "Apply copper-based bactericides and remove infected plants.",
+      "organic_remedy": "Use neem oil sprays and avoid overhead irrigation."
+    },
+    "Tomato___Early_blight": {
+      "description": "Early blight causes target-like spots on lower tomato leaves, leading to defoliation.",
+      "remedy": "Apply fungicides like chlorothalonil or mancozeb.",
+      "organic_remedy": "Use compost tea sprays and improve soil drainage."
+    },
+    "Tomato___Late_blight": {
+      "description": "Late blight affects tomato plants with dark water-soaked lesions on leaves and fruit.",
+      "remedy": "Remove infected plants and use protective fungicides.",
+      "organic_remedy": "Apply copper-based sprays preventively."
+    },
+    "Tomato___Leaf_Mold": {
+      "description": "Leaf mold causes yellow spots on the upper leaf surface and a fuzzy mold underneath.",
+      "remedy": "Use fungicides like mancozeb and improve air circulation.",
+      "organic_remedy": "Apply potassium bicarbonate or neem oil."
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "description": "Septoria leaf spot causes numerous small dark spots on lower leaves of tomato plants.",
+      "remedy": "Use fungicides containing chlorothalonil and remove infected leaves.",
+      "organic_remedy": "Spray neem oil and mulch around plants."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "description": "Spider mites cause yellow stippling and webbing on tomato leaves.",
+      "remedy": "Use insecticidal soaps and miticides.",
+      "organic_remedy": "Spray neem oil and introduce predatory mites."
+    },
+    "Tomato___Target_Spot": {
+      "description": "Target spot causes brown lesions with concentric rings on tomato leaves.",
+      "remedy": "Apply fungicides like chlorothalonil.",
+      "organic_remedy": "Use compost teas and ensure good airflow."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "description": "TYLCV causes leaf curling, stunted growth, and reduced yields in tomatoes.",
+      "remedy": "Remove infected plants and control whiteflies.",
+      "organic_remedy": "Use neem oil and reflective mulches."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "description": "Tomato mosaic virus causes mottled light and dark green patterns on tomato leaves.",
+      "remedy": "Remove infected plants; there is no chemical cure.",
+      "organic_remedy": "Disinfect tools and wash hands before handling plants."
+    },
+    "Tomato___healthy": {
+      "description": "The tomato plant is healthy and shows no signs of disease.",
+      "remedy": "No remedy needed.",
+      "organic_remedy": "Maintain healthy soil and regular inspections."
+    }
+  }  
