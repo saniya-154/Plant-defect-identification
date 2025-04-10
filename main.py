@@ -29,9 +29,8 @@ os.makedirs(trained_model_dir, exist_ok=True)
 
 # Check if model exists, if not download
 if not os.path.exists(model_path):
-    import gdown
-    url = "https://drive.google.com/uc?id=1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI"  # <-- Replace YOUR_FILE_ID
-    gdown.download(url, model_path, quiet=False)
+    gdown.download(f"https://drive.google.com/uc?id={1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI}", "model.h5", quiet=False, fuzzy=True)
+
 
 # Load the pre-trained model and class indices
 model = tf.keras.models.load_model(model_path)
