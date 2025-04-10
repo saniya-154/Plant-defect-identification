@@ -5,6 +5,7 @@ import numpy as np
 import tensorflow as tf
 import streamlit as st
 import requests
+import gdown
 
 # Load remedies JSON
 working_dir = os.path.dirname(os.path.abspath(__file__))
