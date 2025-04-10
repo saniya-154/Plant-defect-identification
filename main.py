@@ -20,18 +20,17 @@ st.set_page_config(page_title="Plant Disease Classifier", layout="centered")
 
 # Define working directory
 working_dir = os.path.dirname(os.path.abspath(__file__))
-model_path = f"{working_dir}/trained_model/plant_disease_prediction_model.h5"
-class_indices_path = f"{working_dir}/class_indices.json"
+trained_model_dir = os.path.join(working_dir, "trained_model")
+model_path = os.path.join(trained_model_dir, "plant_disease_prediction_model.h5")
+class_indices_path = os.path.join(working_dir, "class_indices.json")
 
-# Define working directory
-working_dir = os.path.dirname(os.path.abspath(__file__))
-model_path = f"{working_dir}/trained_model/plant_disease_prediction_model.h5"
-class_indices_path = f"{working_dir}/class_indices.json"
+# Make sure the trained_model directory exists
+os.makedirs(trained_model_dir, exist_ok=True)
 
 # Check if model exists, if not download
 if not os.path.exists(model_path):
     import gdown
-    url = "https://drive.google.com/file/d/1_qbU34eVwpH4hthBmSzpZUZGIFges8ZI/view?usp=drive_link"  # <-- Replace YOUR_FILE_ID
+    url = "https://drive.google.com/uc?id=YOUR_FILE_ID"  # <-- Replace YOUR_FILE_ID
     gdown.download(url, model_path, quiet=False)
 
 # Load the pre-trained model and class indices
